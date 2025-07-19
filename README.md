@@ -1,6 +1,6 @@
-### 👋 Olá! Eu sou o Juan
+# 👋 Olá! Eu sou o Juan
 
-Sou estudante de Estatística na UNICAMP e estou iniciando minha trajetória profissional na área de Ciência de Dados. Tenho interesse em aplicar estatística e aprendizado de máquina para resolver problemas reais, especialmente nas áreas de tecnologia e saúde.
+Sou estudante de Estatística na UNICAMP e estou iniciando minha trajetória profissional na área de Ciência de Dados. Tenho interesse em aplicar estatística e aprendizado de máquina para resolver problemas reais.
 
 ---
 
