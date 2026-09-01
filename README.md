@@ -1,29 +1,32 @@
-# 👋 Olá! Eu sou o Juan
+# Juan Sotomayor | Statistics, Data & Modeling
 
-Sou estudante de Estatística na UNICAMP e estou iniciando minha trajetória profissional na área de Ciência de Dados. Tenho interesse em aplicar estatística e aprendizado de máquina para resolver problemas reais.
+Statistics undergraduate at the University of Campinas (UNICAMP) with applied
+experience in data analytics, workflow automation, data quality, and analytical
+dataset development.
 
----
+My work combines statistical reasoning, computational methods, and reliable
+data practices. I am interested in problems that require more than fitting a
+model: structuring data, validating assumptions, evaluating results, and
+translating technical findings into decisions.
 
-### 🧠 O que me motiva
+## Current work
 
-Gosto de entender a teoria por trás dos modelos, mas também de transformar esse conhecimento em soluções práticas. Tenho afinidade com a estruturação de processos, automação de tarefas repetitivas e construção de pipelines de dados eficientes.
+- **[Computational Statistics](https://github.com/Juan-Sotomayor/ME524-comp-stat)** —
+  implementations and experiments in simulation, numerical methods,
+  optimization, resampling, and MCMC.
+- **[Regression Mixture Models](https://github.com/Juan-Sotomayor/regressao-mistura)** —
+  an applied study of heterogeneous regression relationships through latent
+  components.
 
----
+## Technical focus
 
-### 📚 Em aprendizado contínuo
+**Statistical modeling:** regression, inference, time series, simulation,
+resampling, and multivariate methods  
+**Data analytics:** analytical datasets, metric validation, automation, and
+reproducible reporting  
+**Languages:** Python, R, SQL
 
-Atualmente, estou desenvolvendo projetos de portfólio com foco em:
+## Contact
 
-- Python (pandas, scikit-learn)
-- SQL (BigQuery, SQLite)
-- Machine Learning supervisionado
-- Visualização com seaborn, matplotlib e plotly
-- Ferramentas de versionamento (Git e GitHub)
-
----
-
-### 🤝 Vamos nos conectar?
-
-- 📧 Email: j204303@dac.unicamp.br
-- 💼 LinkedIn: [linkedin.com/in/juansotomayor](https://linkedin.com/in/juansotomayor)  
-
+[LinkedIn](https://www.linkedin.com/in/juansotomayor/) ·
+[Email](mailto:j204303@dac.unicamp.br)
